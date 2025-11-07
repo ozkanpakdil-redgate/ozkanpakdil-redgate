@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozkanpakdil-redgate
+- 👋 Hi, I’m Ozkan
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning postgresql insides
 - 💞️ I’m looking to collaborate on anything fun
